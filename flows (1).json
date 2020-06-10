@@ -1,0 +1,1 @@
+[{"id":"e920db05.36db68","type":"http request","z":"f0b810b7.b3adf","name":"","method":"POST","ret":"obj","paytoqs":false,"url":"https://iam.cloud.ibm.com/identity/token","tls":"","persist":false,"proxy":"","authType":"basic","x":411,"y":100,"wires":[["ec387733.1c8d98"]]}]
